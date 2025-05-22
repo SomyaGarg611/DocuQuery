@@ -1,0 +1,17 @@
+fastapi
+
+uvicorn
+
+SQLAlchemy
+
+psycopg2
+
+python-dotenv
+
+alembic
+
+pydantic[email]
+
+passlib[bcrypt]
+
+streamlit
