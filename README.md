@@ -10,6 +10,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Environment Configuration](#environment-configuration)
+- [Contributing](#contributing)
 
 ## Installation
 
