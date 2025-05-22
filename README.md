@@ -16,7 +16,7 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://your-repo-url.git
+   git clone https://github.com/SomyaGarg611/DocuQuery.git
    cd DocuQuery
    ```
    
@@ -55,3 +55,20 @@ POSTGRES_DB=your_postgres_db
 GROQ_API_KEY=your_groq_api_key
 SERP_API_KEY=your_serp_api_key
 ```
+
+## Contributing
+We welcome contributions to make DocuQuery even better! Here’s how you can get involved:
+
+1. **Fork the Repository**: Click the "Fork" button at the top right of this page to create a copy of the repository in your GitHub account.
+
+2. **Clone the Repository**: Clone your forked repository to your local machine using `git clone https://github.com/SomyaGarg611/DocuQuery.git`.
+
+3. **Create a Branch**: Create a new branch for your feature or bug fix using git checkout -b your-branch-name.
+
+4. **Make Your Changes**: Implement your feature or bug fix.
+
+5. **Commit Your Changes**: Commit your changes with a descriptive commit message using git commit -m "Description of your changes".
+
+6. **Push to the Branch**: Push your changes to your forked repository using git push origin your-branch-name.
+
+7. **Create a Pull Request**: Go to the original repository on GitHub and create a pull request to merge your changes.
